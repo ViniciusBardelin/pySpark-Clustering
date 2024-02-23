@@ -12,4 +12,4 @@ PySpark é a interface Python para o Spark, permitindo aos desenvolvedores escre
 
 Neste projeto eu manipulei, tratei dados e construi um algoritmo de clustering para simular um sistema de recomendação de músicas, assim como o Spotify recomenda músicas para os seus usuários, por exemplo.
 
-Você pode checar os códigos no Jupyter Notebook clicando [aqui]().
+Você pode checar os códigos no Jupyter Notebook clicando [aqui](https://nbviewer.org/github/ViniciusBardelin/pySpark-Clustering/blob/main/Spark-Sistemas-de-Recomendação-Clustering.ipynb).
